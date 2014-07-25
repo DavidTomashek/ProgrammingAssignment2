@@ -3,7 +3,6 @@
 ## Coursera Data Science program, R Programming Course, July 2014
 ## Roger D. Peng, Instructor
 
-## mt
 
 ## The makeVector function from the example, as written,
 ## can actually work to cache any function result, not just mean.
