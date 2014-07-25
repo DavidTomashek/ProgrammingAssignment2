@@ -1,5 +1,7 @@
-## 
-## 
+## cacheMatrix functions by David Tomashek
+## package built to meet requirements of Programming Assignment 2
+## Coursera Data Science program, R Programming Course, July 2014
+## Roger D. Peng, Instructor
 
 ## mt
 
